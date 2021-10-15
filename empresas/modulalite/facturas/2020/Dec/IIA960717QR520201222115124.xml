@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="3.3" Serie="J" Folio="1" Fecha="2020-12-22T11:51:24" FormaPago="03" NoCertificado="30001000000400002332" CondicionesDePago="CREDITO" SubTotal="98800.00" Moneda="MXN" TipoCambio="1" Total="114608.00" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="45138" Sello="NDiLkLDWNM2mp1NchZMugznI6YM7uEXR+2oje/0vfc7KsjUeBKa9pm5Ju49K48bk5owWOAp1qIHhyY6W4t1wVsrm9yOl+9rqpsnGvpsSJ0hvLkCz0P3miLKnXLIgBkCdf1FDPDqhqWJXbmF94+omOrI6lD3mnkMKhE1QCLQ9a8v+r6GFRiqsr9dvtPCRJZ165tVhOvTJTF2F2+KC+CmMFQRHpIFN9PzIa4V6cPlgE+wXgiq4OijG6rQ7mlCWw4dtEwtsMf/TLq2OvxJwDW4ETWTATMcaBVkljzzXeiRpA0ONhqZlfRDlN0Br8n1SrtSGvkO16yI8z0jVfeFCQuOJfQ==" Certificado="MIIFljCCA36gAwIBAgIUMzAwMDEwMDAwMDA0MDAwMDIzMzIwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWRpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMTkwNTI5MTg0NDU3WhcNMjMwNTI5MTg0NDU3WjCBvTEgMB4GA1UEAxMXQ0VDSUxJQSBNSVJBTkRBIFNBTkNIRVoxIDAeBgNVBCkTF0NFQ0lMSUEgTUlSQU5EQSBTQU5DSEVaMSAwHgYDVQQKExdDRUNJTElBIE1JUkFOREEgU0FOQ0hFWjEWMBQGA1UELRMNTUlTQzQ5MTIxNEI4NjEbMBkGA1UEBRMSTUlTQzQ5MTIxNE1DQ1JOQzAxMSAwHgYDVQQLExdDRUNJTElBIE1JUkFOREEgU0FOQ0hFWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJzAzSn5OeWoVfKCzpTudveHSAxa/cUNaooOUjrPJhWRsKKtYArZ67CDYZSbqbjIBwb3Dv6Agr1NHHbYT+h657rJOC3Zhmm4d4a05UoizZTDAtY5c3XAKpdKuJ2oggZuSR9H7mSQ1P3WfT5v3TRg6xgEQwmMdb7v3C0AK1PTOKtjhjmne9NqhzrEHe3nfiWqX6Jn8Xt+lrPAz9k40BOWJiPy9gMthAHPXgXYUMsmfFVYubcNXVIX+iElehL6j5Ain4/S+FBqqp0RvuEF6VfZiI5SuXlH69Rw7BwUcFjgv9hOmRc+vYeaasoqLmfF5Suk+6oEThvh2AO24yiq+1m3scUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAJU0OG2EeLQWVVijpaOBFTyG3+KYCy+hJYyo6/hcUUCRFBAiNTb89tylUkRKpJ9p8digYLkeemmhOkP5UNnwpiy0nfgKDlNHX3BWWBC2X6vcHXF9fOMf1CxYaDMhpqzHI+rNe+7E9GX+Y55Butk1RXGNbrprDkF4HKpc8rj1CtlyvmUjJJ9iWCOyap8/k5NWn1LZA9WdB6JoA5DIX2M4GCkh67bHeNteog8W8DEtYAekkI7Ufe74EI5e3NB3xLO2EZrmula5WEOpEGuvLdi9pqiYzSSabFB/xf1papyZYvKkWWiw6OOEo5V2Z2EXd/sDAMWQhyJygHjUh2ajXQFfKI577omUQf346dlhJXi7PMk2N/26lvtJT5hYLyrbk5K9XiYBfJKkIedn9eoCZIxMH59J8ka2Q23rLnil1rw4l8kVZ9wAhGazeK4Nfzm38B81j6q38Gi7x5GaparrOr+bA5Brr2/e5mH8YGQXUPRNK4ag/N+KggnOH/fHZBH0mKSJZoLhsizGXahcazzuEjqENXF/C+0QG8vuimEtyyCFzx4JzzB5G1i+ZEhGMH7nkRSUf/8Rq8fN2u0SNYE5JEB4ipFaer2JGlRrzSMP5iNkCH2wxWphrMHRWqVqx97PpM45nE0JcukvObw72TaKFhohQ2U6yMb/fqqP5p7C1Z5af38H">
+  <cfdi:Emisor Rfc="MISC491214B86" Nombre="FUMYLIM S DE RL DE CV" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="IIA960717QR5" Nombre="INDUSTRIALIZADORA INTEGRAL DEL AGAVE" UsoCFDI="G03"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="56101500" Cantidad="1" ClaveUnidad="LTR" Unidad="LITRO" Descripcion="BIOTHRINE CE 15" ValorUnitario="0" Importe="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="72102100" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="DEMAND DUO" ValorUnitario="98800" Importe="98800.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="98800" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15808"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="0.00" TotalImpuestosTrasladados="15808.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15808"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento/>
+</cfdi:Comprobante>

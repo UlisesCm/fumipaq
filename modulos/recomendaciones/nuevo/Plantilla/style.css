@@ -1,0 +1,190 @@
+@font-face {
+  font-family: SourceSansPro;
+  src: url(SourceSansPro-Regular.ttf);
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #0087C3;
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+  width: 21cm;
+  height: 29.7cm;
+  margin: 0 auto;
+  color: #555555;
+  background: #FFFFFF;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-family: SourceSansPro;
+}
+
+header {
+  padding: 0px 0;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #0000;
+}
+
+
+
+#logo {
+  float: left;
+  margin-top: 0px;
+width: 100px; height: 100px;
+}
+
+
+
+#fecha {
+  padding-left: 3500px;
+  font-size: 1.2em;
+  font-weight: normal;
+}
+
+#empresa {
+  padding-right: 6px;
+  border-right: 6px solid #00923f;
+  float: right;
+  text-align: right;
+}
+
+
+#Datosgenerales {
+  padding-right: 6px;
+  border-right: 6px solid #00923f;
+  float: right;
+  width: 300px; height: auto;
+  text-align: right;
+}
+
+#detalles {
+  margin-bottom: 50px;
+}
+
+#client {
+  float: left;
+  margin-top: -20px;
+width: 300px; height: auto;
+  padding-left: 6px;
+  border-left: 6px solid #00923f;
+  float: left;
+}
+
+#client .to {
+  color: #777777;
+}
+
+h2.name {
+  font-size: 1.4em;
+  font-weight: normal;
+  margin: 0;
+}
+
+#tituloreporte {
+  font-size: 1.2em;
+  text-align: center;
+  font-weight: normal;
+  margin: 0;
+}
+
+#invoice {
+  float: right;
+  text-align: right;
+}
+
+#invoice h1 {
+  color: #0087C3;
+  font-size: 2.4em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+}
+
+#invoice .date {
+  font-size: 1.1em;
+  color: #777777;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+
+table tr:nth-child(2n-1) td {
+  background: #ffffff;
+}
+
+table th,
+table td {
+  text-align: center;
+}
+
+table th {
+  padding: 5px 20px;
+  color: #5D6975;
+  border-bottom: 1px solid #C1CED9;
+  white-space: nowrap;
+  font-weight: normal;
+}
+
+table .service,
+table .desc {
+  text-align: left;
+}
+
+table td {
+  padding: 20px;
+  text-align: right;
+}
+
+table td.service,
+table td.desc {
+  vertical-align: top;
+}
+
+table td.unit,
+table td.qty,
+table td.total {
+  font-size: 1.2em;
+}
+
+table td.grand {
+  border-top: 1px solid #5D6975;;
+}
+
+#thanks{
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+#firmacliente{
+  padding-left: 475px;
+  border-right: 6px solid #00923f;
+}
+
+#firmacliente .firmaclientes {
+  font-size: 1.2em;
+}
+
+
+
+footer {
+  color: #777777;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  border-top: 1px solid #AAAAAA;
+  padding: 8px 0;
+  text-align: center;
+}
